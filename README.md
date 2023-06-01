@@ -1,2 +1,2 @@
 # PageRank
-<p>An AI to rank web pages by importance.</p>
+An AI to rank web pages by importance.
